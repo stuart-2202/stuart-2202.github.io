@@ -1,2 +1,6 @@
-# stuart-2202.github.io
-Stuart Games website
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>STUART GAMES</h1>
+  </body>
+</html>
